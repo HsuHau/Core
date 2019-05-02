@@ -13,7 +13,7 @@ import static java.util.stream.Collectors.*;
 
 public class ParallelStreams {
     public static void main(String[] args) throws IOException {
-        String contents = Files.readString(Paths.get("alice30.txt"), StandardCharsets.UTF_8);
+        String contents = Files.readString(Paths.get("./alice30.txt"), StandardCharsets.UTF_8);
         List<String> wordList = Arrays.asList(contents.split("\\PL+"));
 
         //Very bad code ahead

@@ -8,7 +8,7 @@ import java.util.*;
 
 public class OptionalTest {
     public static void main(String[] args) throws IOException {
-        String contents = Files.readString(Paths.get("D://alice30.txt"), StandardCharsets.UTF_8);
+        String contents = Files.readString(Paths.get("./alice30.txt"), StandardCharsets.UTF_8);
         List<String> wordList = Arrays.asList(contents.split("\\PL+"));
 
         Optional<String> optionalValue = wordList.stream()

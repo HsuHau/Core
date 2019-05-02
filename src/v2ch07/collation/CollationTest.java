@@ -1,8 +1,5 @@
 package v2ch07.collation;
 
-import v2ch07.dateFormat.EnumCombo;
-import v2ch07.dateFormat.GBC;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionListener;

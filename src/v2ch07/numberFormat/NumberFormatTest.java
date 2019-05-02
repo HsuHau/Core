@@ -1,7 +1,5 @@
 package v2ch07.numberFormat;
 
-import v2ch07.dateFormat.GBC;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionListener;

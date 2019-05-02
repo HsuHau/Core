@@ -54,7 +54,7 @@ public class MemoryMapTest {
         try (FileChannel channel = FileChannel.open(filename)) {
             CRC32 crc32 = new CRC32();
             int length = (int) channel.size();
-            MappedByteBuffer buffer = channel.map(FileChannel.MapMode.READ_ONLY, 0 ,length);
+            MappedByteBuffer buffer = channel.map(FileChannel.MapMode.READ_ONLY, 0 , length);
 
             for (int p = 0; p < length; p++) {
                 int c = buffer.get(p);
@@ -84,12 +84,14 @@ public class MemoryMapTest {
         start = System.currentTimeMillis();
         crcValue = checksumRandomAccessFile(filename);
         end = System.currentTimeMillis();
+        System.out.println(Long.toHexString(crcValue));
         System.out.println((end - start) + "milliseconds");
 
         System.out.println("Mapped File:");
         start = System.currentTimeMillis();
         crcValue = checksumMappedFile(filename);
         end = System.currentTimeMillis();
+        System.out.println(Long.toHexString(crcValue));
         System.out.println((end - start) + "milliseconds");
     }
 }

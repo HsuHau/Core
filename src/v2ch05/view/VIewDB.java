@@ -227,7 +227,7 @@ class ViewDBFrame extends JFrame
     private void readDatabaseProperties() throws IOException
     {
         properties = new Properties();
-        try (InputStream inputStream = Files.newInputStream(Paths.get("database.properties"))) {
+        try (InputStream inputStream = Files.newInputStream(Paths.get("../database.properties"))) {
             properties.load(inputStream);
         }
         String drivers = properties.getProperty("jdbc.drivers");
