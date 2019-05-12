@@ -52,11 +52,7 @@ public class CompilerTest {
                 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 frame.setTitle("CompilerTest");
                 frame.setVisible(true);
-            } catch (InstantiationException e) {
-                e.printStackTrace();
-            } catch (IllegalAccessException e) {
-                e.printStackTrace();
-            } catch (ClassNotFoundException e) {
+            } catch (InstantiationException | IllegalAccessException | ClassNotFoundException e) {
                 e.printStackTrace();
             }
         });
