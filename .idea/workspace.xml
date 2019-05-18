@@ -27,17 +27,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0eac43d-a784-421f-87e6-d935e7037ee5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/v2ch08/compiler/action.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2ch09/classLoader/Caesar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2ch09/classLoader/ClassLoaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2ch09/permissions/WordCheckPermission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v2ch09/verifier/VerifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch02/ImagevViewer/ImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch02/ImagevViewer/cay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch02/ImagevViewer/duke.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch02/RoadApplet/RoadApplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch02/Welcome/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch03/FirsetSample/FirstSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch03/InputTest/InputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch03/Retirement/Retirement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch03/Retirement2/Retirement2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core/v2ch07/retire/RetireComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core/v2ch07/retire/RetireComponent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core/v2ch07/retire/RetireFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core/v2ch07/retire/RetireFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core/v2ch07/retire/RetireInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core/v2ch07/retire/RetireInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core/v2ch08/compiler/CompilerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core/v2ch08/compiler/CompilerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v2ch08/compiler/CompilerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v2ch08/compiler/CompilerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,42 +51,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2ch09/classLoader/ClassLoaderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2450#2451#0" expanded="true" />
-                <element signature="e#2479#2480#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2ch09/verifier/VerifierTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/v2ch09/permissions/WordCheckPermission.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+            <state relative-caret-position="23">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding>
+                <element signature="e#1925#1926#0" expanded="true" />
                 <element signature="e#1979#1980#0" expanded="true" />
+                <element signature="e#2027#2028#0" expanded="true" />
                 <element signature="e#2056#2057#0" expanded="true" />
               </folding>
             </state>
@@ -95,56 +66,76 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2ch09/classLoader/Caesar.java">
+        <entry file="file://$PROJECT_DIR$/src/v1ch02/Welcome/Welcome.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/v1ch02/ImagevViewer/ImageViewer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1288">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2ch08/compiler/action.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2ch03/transform/TransFormTest.java">
+        <entry file="file://$PROJECT_DIR$/src/v1ch02/RoadApplet/RoadApplet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/RetireResources_de.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/RetireResources_zh.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/RetireResources.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/v2ch07/retire/RetireResources_zh.java">
+        <entry file="file://$PROJECT_DIR$/src/v1ch03/FirsetSample/FirstSample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+              <folding>
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/v1ch03/InputTest/InputTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="43">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/v1ch03/Retirement/Retirement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/v1ch03/Retirement2/Retirement2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/v1ch02/ImagevViewer/cay.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/v1ch02/ImagevViewer/duke.gif">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -204,17 +195,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/v2ch07/retire/RetireResources_de.java" />
-        <option value="$PROJECT_DIR$/src/v2ch07/retire/RetireResources_zh.java" />
-        <option value="$PROJECT_DIR$/src/v2ch07/retire/LocaleCombo.java" />
-        <option value="$PROJECT_DIR$/src/v2ch07/retire/GBC.java" />
-        <option value="$PROJECT_DIR$/src/v2ch08/buttons1/ButtonFrame.java" />
-        <option value="$PROJECT_DIR$/src/v2ch08/compiler/StringBuilderJavaSource.java" />
-        <option value="$PROJECT_DIR$/src/v2ch08/script/ScriptTest.java" />
-        <option value="$PROJECT_DIR$/src/v2ch08/compiler/ByteArrayJavaClass.java" />
         <option value="$PROJECT_DIR$/src/v2ch08/buttons2/ButtonFrame.java" />
         <option value="$PROJECT_DIR$/src/v2ch08/compiler/MapClassLoader.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/v2ch02/textFile/Employee.java" />
         <option value="$PROJECT_DIR$/src/v2ch02/randomAccess/Employee.java" />
         <option value="$PROJECT_DIR$/src/v2ch02/randomAccess/DataIO.java" />
@@ -254,12 +236,21 @@
         <option value="$PROJECT_DIR$/src/v2ch09/classLoder/Caesar.java" />
         <option value="$PROJECT_DIR$/src/v2ch09/classLoader/ClassLoaderTest.java" />
         <option value="$PROJECT_DIR$/src/v2ch09/verifier/VerifierTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/v2ch09/permissions/WordCheckPermission.java" />
+        <option value="$PROJECT_DIR$/src/v1ch01/Welcome/Welcome.java" />
+        <option value="$PROJECT_DIR$/src/v1ch01/ImagevViewer/ImageViewer.java" />
+        <option value="$PROJECT_DIR$/src/v1ch02/ImagevViewer/ImageViewer.java" />
+        <option value="$PROJECT_DIR$/src/v1ch02/RoadApplet/RoadApplet.java" />
+        <option value="$PROJECT_DIR$/src/v1ch03/FirsetSample/FirstSample.java" />
+        <option value="$PROJECT_DIR$/src/v1ch03/InputTest/InputTest.java" />
+        <option value="$PROJECT_DIR$/src/v1ch03/Retirement/Retirement.java" />
+        <option value="$PROJECT_DIR$/src/v1ch03/Retirement2/Retirement2.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="435" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="946" />
     <option name="width" value="984" />
     <option name="height" value="1044" />
   </component>
@@ -281,12 +272,25 @@
             <path>
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
               <item name="Core" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="v1ch02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="v1ch03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="v2ch05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Core" type="b2602c69:ProjectViewProjectNode" />
@@ -301,6 +305,10 @@
               <item name="v2ch09" type="462c0819:PsiDirectoryNode" />
               <item name="permissions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -312,28 +320,29 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/v2ch08/compiler" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../corejava/v1ch03/Retirement2/Retirement2.java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../../git/corejava/v2ch02/memoryMap/MemoryMapTest.java" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../corejava/v1ch03/Retirement2/Retirement2.java" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="v2ch03.write" />
-      <recent name="v2ch03.read" />
-      <recent name="v2ch07.dateFormat" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hsuhau\Documents\GitHub\Core\src\v1ch02" />
+      <recent name="C:\Users\hsuhau\Documents\GitHub\Core\src\v1ch01\ImagevViewer" />
+      <recent name="C:\Users\hsuhau\Documents\GitHub\Core\src\v2ch08\compiler" />
+      <recent name="C:\Users\hsuhau\Documents\GitHub\Core\src\resources" />
+      <recent name="C:\Users\hsuhau\Documents\GitHub\Core\src\v2ch03\transform" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="v2ch07.retire" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hsuhau\Documents\GitHub\Core\src\v2ch08\compiler" />
-      <recent name="C:\Users\hsuhau\Documents\GitHub\Core\src\resources" />
-      <recent name="C:\Users\hsuhau\Documents\GitHub\Core\src\v2ch03\transform" />
-      <recent name="C:\Users\hsuhau\Documents\GitHub\Core\src\v2ch03" />
-      <recent name="C:\Users\hsuhau\Documents\GitHub\Core\src\v2ch03\read" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="v2ch03.write" />
+      <recent name="v2ch03.read" />
+      <recent name="v2ch07.dateFormat" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -348,26 +357,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VerifierTest">
-    <configuration name="ClassLoaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v2ch09.classLoader.ClassLoaderTest" />
+  <component name="RunManager" selected="Application.Retirement2">
+    <configuration name="FirstSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch03.FirsetSample.FirstSample" />
       <module name="Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v2ch09.classLoader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompilerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v2ch08.compiler.CompilerTest" />
-      <module name="Core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="v2ch08.compiler.*" />
+          <option name="PATTERN" value="v1ch03.FirsetSample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,12 +384,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Retire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v2ch07.retire.Retire" />
+    <configuration name="ImageViewer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch02.ImagevViewer.ImageViewer" />
       <module name="Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v2ch07.retire.*" />
+          <option name="PATTERN" value="v1ch02.ImagevViewer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -401,12 +397,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransFormTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v2ch03.transform.TransFormTest" />
+    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch03.InputTest.InputTest" />
       <module name="Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v2ch03.transform.*" />
+          <option name="PATTERN" value="v1ch03.InputTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,12 +410,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerifierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="v2ch09.verifier.VerifierTest" />
+    <configuration name="Retirement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch03.Retirement.Retirement" />
       <module name="Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="v2ch09.verifier.*" />
+          <option name="PATTERN" value="v1ch03.Retirement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Retirement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch03.Retirement2.Retirement2" />
+      <module name="Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1ch03.Retirement2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -429,11 +438,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VerifierTest" />
-        <item itemvalue="Application.ClassLoaderTest" />
-        <item itemvalue="Application.CompilerTest" />
-        <item itemvalue="Application.Retire" />
-        <item itemvalue="Application.TransFormTest" />
+        <item itemvalue="Application.Retirement2" />
+        <item itemvalue="Application.Retirement" />
+        <item itemvalue="Application.InputTest" />
+        <item itemvalue="Application.FirstSample" />
+        <item itemvalue="Application.ImageViewer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -451,10 +460,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19983819" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2564725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Designer" order="3" />
@@ -462,7 +471,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899627" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.94423795" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919093" visible="true" weight="0.28546712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5037175" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -471,9 +480,9 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.94423795" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="TeamCity" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.055762082" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.4684015" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49676377" weight="0.06920415" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5008091" side_tool="true" weight="0.94290656" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.46712804" />
       <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32960895" />
       <window_info anchor="bottom" id="Statistic" order="15" weight="0.8810409" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -507,133 +516,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.xml/com/sun/org/apache/xerces/internal/jaxp/DocumentBuilderFactoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="81" column="28" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.xml/javax/xml/parsers/DocumentBuilderFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="407" column="31" selection-start-line="407" selection-start-column="31" selection-end-line="407" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.xml/com/sun/org/apache/xerces/internal/util/ErrorHandlerWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="203" selection-start-line="203" selection-end-line="203" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch03/read/GridBagPane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch03/read/GridBagTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch01/collecting/CollectingIntoMaps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-980">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch02/match/HrefMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch02/objectStream/ObjectStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch02/randomAccess/RandomAccessTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch01/collecting/CollectingResults.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch01/optional/OptionalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch01/optional/alice30.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch01/parallel/ParallelStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch01/streams/CountLongWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch02/memoryMap/MemoryMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1495">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch02/regex/RegexTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/v2ch02/serialClone/SerialCloneTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -806,10 +688,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/v2ch09/classLoader/ClassLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v2ch09/verifier/VerifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v2ch09/classLoader/Caesar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/v2ch08/compiler/action.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/v2ch03/transform/TransFormTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/RetireResources_de.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v2ch05/derby.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee.dat">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/RetireResources_zh.java">
@@ -818,6 +762,20 @@
     <entry file="file://$PROJECT_DIR$/src/resources/RetireResources.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/codeStyles/Project.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-404">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/v2ch07/retire/RetireResources_zh.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -825,60 +783,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch09/classLoader/Caesar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch09/classLoader/ClassLoaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2450#2451#0" expanded="true" />
-            <element signature="e#2479#2480#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch09/verifier/VerifierTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/v2ch03/transform/TransFormTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/v2ch09/permissions/WordCheckPermission.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        <state relative-caret-position="23">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding>
+            <element signature="e#1925#1926#0" expanded="true" />
             <element signature="e#1979#1980#0" expanded="true" />
+            <element signature="e#2027#2028#0" expanded="true" />
             <element signature="e#2056#2057#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch01/Welcome/Welcome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch01/ImagevViewer/ImageViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="37" selection-start-line="30" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch02/Welcome/Welcome.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch02/ImagevViewer/cay.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch02/ImagevViewer/duke.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch02/ImagevViewer/ImageViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch02/RoadApplet/RoadApplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch03/FirsetSample/FirstSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch03/InputTest/InputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch03/Retirement2/Retirement2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/v1ch03/Retirement/Retirement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
